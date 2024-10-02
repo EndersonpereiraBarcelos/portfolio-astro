@@ -7,25 +7,25 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Puppetfactory",
-    techs: ["Next.js", "TypeScript"],
-    link: "https://puppetfactory.app/",
+    title: "DevOps",
+    techs: ["Terraform", "Yml"],
+    link: "https://github.com/EndersonpereiraBarcelos/DevOps",
   },
   {
-    title: "Script to generate Next.js project",
-    techs: ["Shell"],
-    link: "https://github.com/MaeWolff/create-nextjs-app-bash-script",
+    title: "Docker Ci/CD",
+    techs: ["Docker", "Html5", "GO"],
+    link: "https://github.com/EndersonpereiraBarcelos/docker_cicd",
   },
   {
-    title: "Dictionary App",
-    techs: ["Next.js", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "MlOps",
+    techs: ["Python3", "Jupyter Notebook"],
+    link: "https://github.com/EndersonpereiraBarcelos/MLOps",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro", "TypeScript"],
-    link: "https://github.com/MaeWolff/astro-portfolio-template",
-    isComingSoon: true,
+    title: "Data Science",
+    techs: ["Python3", "Jupyter Notebook", "CSV"],
+    link: "https://github.com/EndersonpereiraBarcelos/datascience",
+    // isComingSoon: true,
   },
 ];
 
